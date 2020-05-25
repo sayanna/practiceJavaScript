@@ -1,0 +1,9 @@
+python -m SimpleHTTPServer
+
+Install and configure apache web server
+sudo apt update
+sudo apt install apache2
+
+
+sudo subl /etc/apache2/sites-enabled/000-default.conf
+DocumentRoot /home/ANT.AMAZON.COM/csayanna/Downloads/debug/practiceJs/apachehost
