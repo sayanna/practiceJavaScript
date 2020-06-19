@@ -1,0 +1,27 @@
+body {
+	background: grey;
+	font-family: ariel;
+	margin: 0;
+}
+
+nav h2 {
+	background: white;
+	margin: 0;
+	display: inline-block;
+	color: blue;
+	padding: 5px 15px;
+}
+
+nav ul li {
+	background: white;
+	margin: 10px;
+	list-style-type: none;
+	display: inline-block;
+	color: white;
+	padding: 5px 15px;
+}
+
+table {
+	background: black;
+	color: white;
+}
